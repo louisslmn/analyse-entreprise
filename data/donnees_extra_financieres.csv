@@ -1,0 +1,7 @@
+entreprise,secteur,intensite_carbone,part_ca_vert,score_esg_global
+ALPHA SA,Industrie,170.3,0.29,48.7
+BETA INDUSTRIES,Industrie lourde,301.5,0.2,56.1
+GAMMA TECH,Technologie,55.0,0.45,35.4
+DELTA RETAIL,Distribution,79.6,0.13,44.1
+EPSILON ENERGIE,Énergie,498.8,0.07,78.9
+ZETA FINANCE,Finance,60.4,0.33,79.9
